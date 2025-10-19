@@ -43,10 +43,12 @@ Developed by: Sunil Kumar R Register no: 25013786
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-<img width="956" height="427" alt="image" src="https://github.com/user-attachments/assets/48ddaa42-2c26-45c2-b9fd-64dd6ea9e9e4" />
+<img width="895" height="383" alt="image" src="https://github.com/user-attachments/assets/6ba16df4-8062-49dc-8188-548aa9928470" />
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="965" height="554" alt="image" src="https://github.com/user-attachments/assets/7789b32f-d449-41c2-97d8-52892ed69e2b" />
+
+<img width="954" height="419" alt="image" src="https://github.com/user-attachments/assets/b9bdae52-d013-4080-ba20-b6b5f6700110" />
 
 **RESULTS**
 Thus the JK flipflop is implemented and verified.
